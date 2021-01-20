@@ -2,7 +2,7 @@
 
 This is a starter for a React project. It's as minimal as it gets and uses Webpack and Babel
 
-![React logo](React.png)
+![React logo](react.png)
 
 ## Use
 
